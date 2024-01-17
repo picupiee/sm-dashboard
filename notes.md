@@ -4,7 +4,7 @@ Light/Dark Mode Toggle
 
 - What HTML Markup (accessibel)
 - Switching Light/Dark modes via JS
-- Three option toggle : light, dark, system
+- Three option toggle : light, dark, system pref -- https://codepen.io/renddrew/pen/bRomab
 
 CSS Variables (custom properties)
 
